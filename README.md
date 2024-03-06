@@ -1,0 +1,1 @@
+This report analyzes data from May to June 2022 for AtliQ Grands hotels, aiming to identify areas for improvement and regain market share. Power BI, a data visualization tool, was used to gain insights into key metrics like customer ratings, occupancy rates, revenue, and bookings.
